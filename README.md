@@ -1,10 +1,14 @@
 # NETFLIX GPT
-
+  - Create-react-app
+  - Configured TAILWIND
+  - Header
+  - Login form
+  - Sign up form
 
 # Features
 
   - Login/Sign Up
-    - Sign In / Ssign Up Form
+    - Sign In / sign Up Form
     - redirect to Browser page
   - Browse (after authentication)
     - Header
