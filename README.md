@@ -4,6 +4,15 @@
   - Header
   - Login form
   - Sign up form
+  - Form validation
+  - useRef Hook
+  - firebase configuration
+  - Deployed app on firebase
+  - Create-SignUp user account
+  - impliment sigin In user api
+  - created redux store with user slice
+  - create signout functionality
+  - update profile with name & profile image
 
 # Features
 
